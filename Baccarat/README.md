@@ -1,8 +1,10 @@
-[![npm version](https://badge.fury.io/js/baccarat-engine.svg)](https://badge.fury.io/js/baccarat-engine)
 
-# Baccarat Engine
+# Baccarat Card Game Engine
 
 The baccarat engine project is meant as a library in order to ease the calculation of baccarat game results, roadmaps generated from a collection of games, and other various statistics connected to games of baccarat. The module is also intended to be expandable and pluggable to offer simple calculation of new side bets.
+
+
+For detailed build and implemnetation project contract me [Telegram](https://t.me/caterpillardev)
 
 ## Installation
 
@@ -14,7 +16,6 @@ Installation from source to your development machine is quite easy and should on
 
 ## An explanation of punto banco baccarat
 
-_Credit to [Wikipedia](<https://en.wikipedia.org/wiki/Baccarat_(card*game)#Punto_banco>).*
 
 In baccarat, cards have a point value: cards two through nine are worth face value (in points); tens, jacks, queens and kings have no point value (i.e. are worth zero); aces are worth 1 point; jokers are not used. Hands are valued according to the rightmost digit of the sum of their constituent cards. For example, a hand consisting of 2 and 3 is worth 5, but a hand consisting of 6 and 7 is worth 3 (i.e., the 3 being the rightmost digit in the combined points total of 13). The highest possible hand value in baccarat is therefore nine.
 
@@ -60,4 +61,47 @@ if (gameEngine.isBurnNeeded) {
 
 ## Usage
 
-[Sample usage](sample-usage.js)
+
+## Blockchain Implementations
+
+This baccarat engine has been successfully implemented on multiple blockchain platforms:
+
+### Solana Implementation
+- Smart contract written in Rust
+- Uses Solana's Program Derived Addresses (PDAs) for secure game state management
+- Implements on-chain verification of game results
+- Supports SPL token integration for betting
+- Features:
+  - Provably fair gameplay
+  - Instant payouts
+  - Low transaction fees
+  - High throughput
+
+### BNB Chain Implementation
+- Smart contract written in Solidity
+- Utilizes BNB Chain's high performance and low gas fees
+- Implements BEP-20 token integration
+- Features:
+  - Cross-chain compatibility
+  - Fast finality
+  - Cost-effective transactions
+  - Built-in oracle support
+
+### Sui Implementation
+- Smart contract written in Move
+- Leverages Sui's object-centric model for game state
+- Implements parallel transaction processing
+- Features:
+  - High scalability
+  - Zero gas fees
+  - Built-in randomness
+  - Advanced object capabilities
+
+### Common Features Across Implementations
+- Provably fair gameplay using on-chain verification
+- Secure random number generation
+- Transparent game history
+- Instant payouts
+- Cross-platform compatibility
+- Smart contract audit reports available
+
