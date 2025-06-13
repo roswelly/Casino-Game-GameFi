@@ -1,5 +1,5 @@
 {
-  "name": "baccarat-engine",
+  "name": "baccarat-card-games-engine",
   "version": "1.1.5",
   "description": "A baccarat engine for calculating results, roadmaps, and other baccarat related statistics.  Also capable of generating baccarat games based on proper drawing rules.",
   "main": "./src/index.js",
@@ -14,11 +14,11 @@
     "Node.JS"
   ],
   "types": "types/index.d.ts",
-  "author": "Jeffrey Conradi <jeffreyconradi@gmail.com>",
+  "author": "caterpillardev <yabidev@gmail.com>",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jconradi/baccarat-engine"
+    "url": "https://github.com/caterpillardev/baccarat"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",
