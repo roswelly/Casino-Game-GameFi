@@ -3,7 +3,7 @@
 ## Games
 - Baccarat
 - Blackjack
-- Roulete
+- Roulette
 
 ## Blockchain Integration
 
