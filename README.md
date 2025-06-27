@@ -1,6 +1,10 @@
 # Web3 gaming - GameFi
+
 ## Games
 - Baccarat
+- Blackjack
+- Roulete
+
 ## Blockchain Integration
 
 BNB, Solana, Sui integration 
