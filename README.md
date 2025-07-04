@@ -4,6 +4,12 @@
 - Baccarat
 - Blackjack
 - Roulette
+- Crash
+- CoinFlip
+- Dice
+- Plinko
+- Limbo
+- Slot
 
 ## Blockchain Integration
 
