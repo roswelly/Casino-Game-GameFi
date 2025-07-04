@@ -10,6 +10,7 @@
 - Plinko
 - Limbo
 - Slot
+- Jackpot
 
 ## Blockchain Integration
 
