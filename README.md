@@ -27,5 +27,5 @@ BNB, Solana, Sui integration
 
     - Level enchanging
 ## Contact
-- [telegram](https://t.me/roswellyy)
-- [twitter](https://x.com/roswellyy)
+- [telegram](https://t.me/roswellecho)
+- [twitter](https://x.com/roswellecho)
